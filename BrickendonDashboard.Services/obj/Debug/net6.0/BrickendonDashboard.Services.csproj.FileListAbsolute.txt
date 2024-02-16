@@ -1,0 +1,17 @@
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\bin\Debug\net6.0\BrickendonDashboard.Services.deps.json
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\bin\Debug\net6.0\BrickendonDashboard.Services.dll
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\bin\Debug\net6.0\BrickendonDashboard.Services.pdb
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\BrickendonDashboard.Services.csproj.AssemblyReference.cache
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\BrickendonDashboard.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\BrickendonDashboard.Services.AssemblyInfoInputs.cache
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\BrickendonDashboard.Services.AssemblyInfo.cs
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\BrickendonDashboard.Services.csproj.CoreCompileInputs.cache
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\BrickendonDashboard.Services.dll
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\refint\BrickendonDashboard.Services.dll
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\BrickendonDashboard.Services.pdb
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\ref\BrickendonDashboard.Services.dll
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\bin\Debug\net6.0\BrickendonDashboard.DbModel.dll
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\bin\Debug\net6.0\BrickendonDashboard.Domain.dll
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\bin\Debug\net6.0\BrickendonDashboard.Domain.pdb
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\bin\Debug\net6.0\BrickendonDashboard.DbModel.pdb
+C:\git\BrickendonDashboardApi\BrickendonDashboard.Services\obj\Debug\net6.0\BrickendonDashboard.Services.csproj.CopyComplete
